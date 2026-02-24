@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abbysamson11
-- 👀 I’m interested in coding using Python and Server Administration
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in coding using Javascript and Server Administration
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me ...
 
